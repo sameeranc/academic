@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Workshop for fostering a culture of scientific research in the institutions where officers of Sri Lanka Scientific Service are serving - Practical training on Statistics for Research - Organized by Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government (Nov 2023).\nPre-Congress workshop on Basic statistical methods in health research, organized by the College of Medical Administrators of Sri Lanka (Aug 2023).\nEssentials of Data Science - online workshop series organized by the Center for Data Science (2023 Jan - 2023 June)\nA workshop on Using LMS for effective assessment (formative and summative), Academic Staff Training on E-learning Aspects 2022 – Organized by the Staff Training subcommittee of the Faculty of Science, University of Colombo (June 2022).\nVirtual Series of Short Courses in Statistical Methods for Biologists - Forecasting Methods, conducted by Institute of Biology, Sri Lanka (June 2022).\nWorkshop on R for Data Science - A Crash Course - A pre-conference workshop of the International Conference on Multidisciplinary Approaches in Science (ICMAS2021) organized by the Center for Data Science (November 2021).\nWorkshop on How to use R Programming for Research - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (July 2021).\nWorkshop on Basics of R Programming for Research - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (July 2021).\nWorkshop on Importance of Statistics for Research - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (July 2021).\nA session on Importance of Statistics in Research & How to Get Help in the workshop titled Effective Proposal Writing and Thereafter - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (May 2021).\nTraining Program on Multivariate Data Analysis Using SPSS and Introduction to R Statistical Software (Jan 2019).\nIntroduction to R and Basic Data Analysis - Staff Development Center, University of Colombo (July 2018).\nStatistical inference using R - Practical session, Center for Banking Studies, Central Bank of Sri Lanka (July 2018).\nTraining Workshop on R - Department of Statistics & Computer Science and Research Service Centre, Faculty of Science, University of Kelaniya (December 2017).\nOne - Day Workshop on Biological Modeling, Research & Academic Collaboration Program, University of Kelaniya (November 2016)."
+  },
+  {
+    "objectID": "workshops.html#workshops-conducted-by-me",
+    "href": "workshops.html#workshops-conducted-by-me",
+    "title": "Workshops",
+    "section": "",
+    "text": "Workshop for fostering a culture of scientific research in the institutions where officers of Sri Lanka Scientific Service are serving - Practical training on Statistics for Research - Organized by Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government (Nov 2023).\nPre-Congress workshop on Basic statistical methods in health research, organized by the College of Medical Administrators of Sri Lanka (Aug 2023).\nEssentials of Data Science - online workshop series organized by the Center for Data Science (2023 Jan - 2023 June)\nA workshop on Using LMS for effective assessment (formative and summative), Academic Staff Training on E-learning Aspects 2022 – Organized by the Staff Training subcommittee of the Faculty of Science, University of Colombo (June 2022).\nVirtual Series of Short Courses in Statistical Methods for Biologists - Forecasting Methods, conducted by Institute of Biology, Sri Lanka (June 2022).\nWorkshop on R for Data Science - A Crash Course - A pre-conference workshop of the International Conference on Multidisciplinary Approaches in Science (ICMAS2021) organized by the Center for Data Science (November 2021).\nWorkshop on How to use R Programming for Research - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (July 2021).\nWorkshop on Basics of R Programming for Research - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (July 2021).\nWorkshop on Importance of Statistics for Research - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (July 2021).\nA session on Importance of Statistics in Research & How to Get Help in the workshop titled Effective Proposal Writing and Thereafter - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (May 2021).\nTraining Program on Multivariate Data Analysis Using SPSS and Introduction to R Statistical Software (Jan 2019).\nIntroduction to R and Basic Data Analysis - Staff Development Center, University of Colombo (July 2018).\nStatistical inference using R - Practical session, Center for Banking Studies, Central Bank of Sri Lanka (July 2018).\nTraining Workshop on R - Department of Statistics & Computer Science and Research Service Centre, Faculty of Science, University of Kelaniya (December 2017).\nOne - Day Workshop on Biological Modeling, Research & Academic Collaboration Program, University of Kelaniya (November 2016)."
+  },
+  {
     "objectID": "projects.html#count-data-modeling",
     "href": "projects.html#count-data-modeling",
     "title": "Projects",
@@ -25,6 +39,48 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site! :)"
+    "text": "I am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka. I am a passionate researcher.\n\n\n\nComputational Statistics\nGenomic Biostatistics\nBiological Data Modeling\nMachine Learning\nBig Data Analytics\nR Programming\n\n\n\n\n\nPhD in Genomic Biostatistics, Old Dominion University, VA, USA\nMS in Statistics, University of Texas at El Paso, TX, USA\nBSc in Statistics (First Class Honours), University of Colombo, Sri Lanka"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "About Me",
+    "section": "",
+    "text": "Computational Statistics\nGenomic Biostatistics\nBiological Data Modeling\nMachine Learning\nBig Data Analytics\nR Programming"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "PhD in Genomic Biostatistics, Old Dominion University, VA, USA\nMS in Statistics, University of Texas at El Paso, TX, USA\nBSc in Statistics (First Class Honours), University of Colombo, Sri Lanka"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\nI have more than 15 years of experience in research, consultancy and teaching. I like to model data and communicate to public in efficent ways."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "• R code for modeling inflated count data: an EM algorithmic approach. Copyright Number: TXu002192850 (2020) Viswakula, Sameera Dhananjaya and Fernando, Srinal."
+  },
+  {
+    "objectID": "software.html#united-states-copyright",
+    "href": "software.html#united-states-copyright",
+    "title": "Software",
+    "section": "",
+    "text": "• R code for modeling inflated count data: an EM algorithmic approach. Copyright Number: TXu002192850 (2020) Viswakula, Sameera Dhananjaya and Fernando, Srinal."
+  },
+  {
+    "objectID": "software.html#software-released",
+    "href": "software.html#software-released",
+    "title": "Software",
+    "section": "Software Released",
+    "text": "Software Released\n\nRNASSA 2.0: RNA Secondary Structure Analysis (Version 2.0.121208). Leung, M.-Y., Mohl, J., Licon, A., Viswakula, S., Kelley, P., Araiza, R., Kodimala, V., Vegesna, R., Saldivar, L., Yehadego, D., Cardenas, G., Vest, E.,Fuentes, O., Taufer, M., Johnson, K. L., (2012).\nSegmenta 2.0: A Bioinformatics Tool for RNA Segmentation (Version 2.0.121208). Leung, M.-Y., Viswakula, S., Kodimala, V., Yehadego, D., Vegesna, R., Taufer, M., Johnson, K. L., (2012)."
   }
 ]

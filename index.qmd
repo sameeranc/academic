@@ -8,14 +8,27 @@ about:
 
 :::{#me}
 
+I am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka. I am a passionate researcher.
+
 ## Interests
+- Computational Statistics
+- Genomic Biostatistics
+- Biological Data Modeling
+- Machine Learning
+- Big Data Analytics
+- R Programming
 
 ## Education
-
-## Experience
-
-## Recent Activities
+- [x] PhD in Genomic Biostatistics, Old Dominion University, VA, USA
+- [x] MS in Statistics, University of Texas at El Paso, TX, USA
+- [x] BSc in Statistics (First Class Honours), University of Colombo, Sri Lanka
 
 :::
+# Sameera Viswakula
 
-Thanks for checking out my web site! :)
+## Experience
+I have more than 15 years of experience in research, consultancy and teaching. I like to model data and communicate to public in efficent ways.
+
+
+
+
