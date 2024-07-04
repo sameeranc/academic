@@ -8,7 +8,7 @@ about:
 
 :::{#me}
 
-I am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka. I am a passionate researcher.
+I am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka. I am a passionate researcher. 
 
 ## Interests
 - Computational Statistics
