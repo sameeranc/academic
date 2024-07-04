@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html#count-data-modeling",
+    "href": "projects.html#count-data-modeling",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "section": "Count Data Modeling",
+    "text": "Count Data Modeling"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "projects.html#genomics-data-modeling",
+    "href": "projects.html#genomics-data-modeling",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "Genomics Data Modeling",
+    "text": "Genomics Data Modeling"
+  },
+  {
+    "objectID": "projects.html#r-programming",
+    "href": "projects.html#r-programming",
+    "title": "Projects",
+    "section": "R Programming",
+    "text": "R Programming"
   },
   {
     "objectID": "index.html",

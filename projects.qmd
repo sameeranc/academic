@@ -2,8 +2,10 @@
 title: "Projects"
 ---
 
-## Project 1 
+## Biological Data Modeling  
 
-## Project 2
+## Count Data Modeling
 
-## Project 3
+## Genomics Data Modeling
+
+## R Programming
