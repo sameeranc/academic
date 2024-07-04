@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - workshops.qmd
+      - software.qmd
     tools:
       - icon: house
         href: https://www.res.cmb.ac.lk/statistics/sameera-viswakula/
