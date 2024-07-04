@@ -1,0 +1,15 @@
+---
+title: "Software"
+---
+
+## United States Copyright
+• R code for modeling inflated count data: an EM algorithmic approach.
+Copyright Number: TXu002192850 (2020) Viswakula, Sameera Dhananjaya
+and Fernando, Srinal.
+
+## Software Released
+1. RNASSA 2.0: RNA Secondary Structure Analysis (Version 2.0.121208).
+Leung, M.-Y., Mohl, J., Licon, A., Viswakula, S., Kelley, P., Araiza, R.,
+Kodimala, V., Vegesna, R., Saldivar, L., Yehadego, D., Cardenas, G., Vest, E.,Fuentes, O., Taufer, M., Johnson, K. L., (2012).
+2. Segmenta 2.0: A Bioinformatics Tool for RNA Segmentation (Version
+2.0.121208). Leung, M.-Y., Viswakula, S., Kodimala, V., Yehadego, D., Vegesna, R., Taufer, M., Johnson, K. L., (2012).
