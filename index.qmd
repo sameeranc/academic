@@ -1,14 +1,24 @@
 ---
-title: "About Me"
+title: "Sameera Viswakula"
 about:
   id: me
-  template: broadside
+  template: trestles
   image: img/profile.png
+  image-shape: round
+  image-width: 20em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/sameeraviswakula/
+    - text: GitHub
+      href: https://github.com/sameeranc/academic
+    - text: Email
+      href: mailto:sam@stat.cmb.ac.lk
 ---
 
 :::{#me}
 
-I am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka. I am a passionate researcher.
+## About me
+I am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka. I am a passionate researcher. 
 
 ## Interests
 - Computational Statistics
@@ -23,11 +33,10 @@ I am a senior lecturer at the Department of Statistics, University of Colombo, S
 - [x] MS in Statistics, University of Texas at El Paso, TX, USA
 - [x] BSc in Statistics (First Class Honours), University of Colombo, Sri Lanka
 
-:::
-# Sameera Viswakula
-
 ## Experience
 I have more than 15 years of experience in research, consultancy and teaching. I like to model data and communicate to public in efficent ways.
+
+:::
 
 
 

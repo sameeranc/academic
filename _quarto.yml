@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Sameera Viswakula, PhD"
+  title: "Sameera Viswakula"
   navbar:
     left:
       - href: index.qmd
@@ -24,8 +24,9 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: 
+      dark: slate
     toc: true
 
-editor: source
+editor: visual
 
