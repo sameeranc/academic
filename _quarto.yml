@@ -27,6 +27,7 @@ format:
     theme: 
       dark: slate
     toc: true
-
+    page-layout: full
+    
 editor: visual
 
