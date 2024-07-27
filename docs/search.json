@@ -39,14 +39,14 @@
     "href": "index.html",
     "title": "Sameera Viswakula",
     "section": "",
-    "text": "LinkedIn\n  \n  \n     GitHub\n  \n  \n     Email\n  \n\n  \n  \n\n\nI am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka. I am a passionate researcher.\n\n\n\n\nComputational Statistics\nGenomic Biostatistics\nBiological Data Modeling\nMachine Learning\nBig Data Analytics\nR Programming\n\n\n\n\n\nPhD in Genomic Biostatistics, Old Dominion University, VA, USA\nMS in Statistics, University of Texas at El Paso, TX, USA\nBSc in Statistics (First Class Honours), University of Colombo, Sri Lanka\n\n\n\n\nI have more than 15 years of experience in research, consultancy and teaching. I like to model data and communicate to public in efficent ways."
+    "text": "LinkedIn\n  \n  \n     GitHub\n  \n  \n     Email\n  \n\n  \n  \n\n\nI am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka and I like coding and carrying out research.\n\n\n\n\nComputational Statistics\nGenomic Biostatistics\nBiological Data Modeling\nMachine Learning\nBig Data Analytics\nR Programming\n\n\n\n\n\nPhD in Genomic Biostatistics, Old Dominion University, VA, USA\nMS in Statistics, University of Texas at El Paso, TX, USA\nBSc in Statistics (First Class Honours), University of Colombo, Sri Lanka"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Sameera Viswakula",
     "section": "",
-    "text": "I am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka. I am a passionate researcher."
+    "text": "I am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka and I like coding and carrying out research."
   },
   {
     "objectID": "index.html#interests",
@@ -66,8 +66,8 @@
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Sameera Viswakula",
-    "section": "",
-    "text": "I have more than 15 years of experience in research, consultancy and teaching. I like to model data and communicate to public in efficent ways."
+    "section": "Experience",
+    "text": "Experience\nI have more than 15 years of experience in research, consultancy and teaching. I like to model data and communicate to public in efficent ways."
   },
   {
     "objectID": "software.html",
@@ -89,5 +89,19 @@
     "title": "Software",
     "section": "Software Released",
     "text": "Software Released\n\nRNASSA 2.0: RNA Secondary Structure Analysis (Version 2.0.121208). Leung, M.-Y., Mohl, J., Licon, A., Viswakula, S., Kelley, P., Araiza, R., Kodimala, V., Vegesna, R., Saldivar, L., Yehadego, D., Cardenas, G., Vest, E.,Fuentes, O., Taufer, M., Johnson, K. L., (2012).\nSegmenta 2.0: A Bioinformatics Tool for RNA Segmentation (Version 2.0.121208). Leung, M.-Y., Viswakula, S., Kodimala, V., Yehadego, D., Vegesna, R., Taufer, M., Johnson, K. L., (2012)."
+  },
+  {
+    "objectID": "index.html#honors-and-awards",
+    "href": "index.html#honors-and-awards",
+    "title": "Sameera Viswakula",
+    "section": "Honors and Awards",
+    "text": "Honors and Awards\n\nPresident’s Award for Scientific Research - 2018 (Awarded in April, 2021)\nUniversity of Colombo Senate Award for Research Excellence (Awarded in recognition of excellence in research in the year 2021) - Certificate of Commendation\nUniversity of Colombo Senate Award for Research Excellence (Awarded in recognition of excellence in research in the year 2020) - Certificate of Commendation\nFaculty Award for Excellence in Academic Outreach - 2022, Faculty of Science, University of Colombo\nFaculty Award for Research Excellence - 2021, Faculty of Science, University of Colombo\nFaculty Award for Excellence in Academic Outreach - 2021, Faculty of Science, University of Colombo\nFaculty Award for Research Excellence - 2020, Faculty of Science, University of Colombo\nFaculty Award for Excellence in Academic Outreach - 2020, Faculty of Science, University of Colombo\nFaculty Award for Excellence in Academic Outreach - 2019, Faculty of Science, University of Colombo\nGraduate Statistician - Royal Statistical Society, 2014\nDepartment of Statistics Gold Medal for the Final Year Statistics Project, 2008 University of Colombo, Sri Lanka"
+  },
+  {
+    "objectID": "index.html#grants-received",
+    "href": "index.html#grants-received",
+    "title": "Sameera Viswakula",
+    "section": "Grants Received",
+    "text": "Grants Received\n\nScience and Technology Human Resource Development Project, Ministry of Education funded by Asian Development Bank (Inter-university collaboration with Faculty of Technology, University of Kelaniya) - 2023-2024\nNSF Research Grants for Health Sciences (Co-investigator) - 2016-2022\nUniversity of Colombo Small Research Grant (Investigator) - 2017"
   }
 ]

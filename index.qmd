@@ -15,29 +15,47 @@ about:
       href: mailto:sam@stat.cmb.ac.lk
 ---
 
-:::{#me}
-
+::: {#me}
 ## About me
-I am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka. I am a passionate researcher. 
+
+I am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka and I like coding and carrying out research.
 
 ## Interests
-- Computational Statistics
-- Genomic Biostatistics
-- Biological Data Modeling
-- Machine Learning
-- Big Data Analytics
-- R Programming
+
+-   Computational Statistics
+-   Genomic Biostatistics
+-   Biological Data Modeling
+-   Machine Learning
+-   Big Data Analytics
+-   R Programming
 
 ## Education
-- [x] PhD in Genomic Biostatistics, Old Dominion University, VA, USA
-- [x] MS in Statistics, University of Texas at El Paso, TX, USA
-- [x] BSc in Statistics (First Class Honours), University of Colombo, Sri Lanka
 
-## Experience
-I have more than 15 years of experience in research, consultancy and teaching. I like to model data and communicate to public in efficent ways.
-
+-   [x] PhD in Genomic Biostatistics, Old Dominion University, VA, USA
+-   [x] MS in Statistics, University of Texas at El Paso, TX, USA
+-   [x] BSc in Statistics (First Class Honours), University of Colombo, Sri Lanka
 :::
 
+## Experience
 
+I have more than 15 years of experience in research, consultancy and teaching. I like to model data and communicate to public in efficent ways.
 
+## Honors and Awards
 
+1.  President’s Award for Scientific Research - 2018 (Awarded in April, 2021)
+2.  University of Colombo Senate Award for Research Excellence (Awarded in recognition of excellence in research in the year 2021) - Certificate of Commendation
+3.  University of Colombo Senate Award for Research Excellence (Awarded in recognition of excellence in research in the year 2020) - Certificate of Commendation
+4.  Faculty Award for Excellence in Academic Outreach - 2022, Faculty of Science, University of Colombo
+5.  Faculty Award for Research Excellence - 2021, Faculty of Science, University of Colombo
+6.  Faculty Award for Excellence in Academic Outreach - 2021, Faculty of Science, University of Colombo
+7.  Faculty Award for Research Excellence - 2020, Faculty of Science, University of Colombo
+8.  Faculty Award for Excellence in Academic Outreach - 2020, Faculty of Science, University of Colombo
+9.  Faculty Award for Excellence in Academic Outreach - 2019, Faculty of Science, University of Colombo
+10. Graduate Statistician - Royal Statistical Society, 2014
+11. Department of Statistics Gold Medal for the Final Year Statistics Project, 2008 University of Colombo, Sri Lanka
+
+## Grants Received
+
+1.  Science and Technology Human Resource Development Project, Ministry of Education funded by Asian Development Bank (Inter-university collaboration with Faculty of Technology, University of Kelaniya) - 2023-2024
+2.  NSF Research Grants for Health Sciences (Co-investigator) - 2016-2022
+3.  University of Colombo Small Research Grant (Investigator) - 2017
