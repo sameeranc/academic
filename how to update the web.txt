@@ -1,0 +1,6 @@
+DO the changes in RStudio after opening the project
+Go to GIT BASH
+
+git add --all
+git commit "give a name"
+git push
