@@ -2,7 +2,9 @@
 title: "Projects"
 ---
 
-## Biological Data Modeling  
+## Machine Learning
+
+## Biological Data Modeling
 
 ## Count Data Modeling
 
