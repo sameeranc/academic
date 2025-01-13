@@ -4,3 +4,5 @@ Go to GIT CMD
 git add .
 git commit -m "give a name"
 git push
+
+https://github.com/sameeranc/academic
