@@ -3,7 +3,7 @@ title: "Sameera Viswakula"
 about:
   id: me
   template: trestles
-  image: img/profile.png
+  image: img/profileC.png
   image-shape: round
   image-width: 20em
   links: 

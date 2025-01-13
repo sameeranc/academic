@@ -25,6 +25,7 @@ website:
 format:
   html:
     theme: 
+      light: flatly
       dark: slate
     toc: true
     page-layout: full
