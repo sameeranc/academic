@@ -4,38 +4,42 @@ title: "Workshops"
 
 ## Workshops conducted by me
 
-1.  Contributed to the invited session on "Machine Learning Strategies for Research Enhancement" at the inauguration of the Postgraduate Technical Sessions 2024, Annual Research Symposium, University of Colombo (Nov 2024).
+1.  Workshop on "Learn R: A Practical Introduction to Data Analytics", organized by the Human Resource Development Centre in collaboration with the Center for Data Science, University of Colombo.
 
-2.  Virtual Series of Short Courses in Statistical Methods for Biologists - Forecasting Methods, conducted by Institute of Biology, Sri Lanka (Sep 2024).
+2.  Introductory Third Webinar titled "A Guide to Time Series Analysis and Forecasting for Data Storm 6.0" organized by the Rotaract Club of University of Colombo and University of Moratuwa, Sri Lanka.
 
-3.  Virtual Series of Short Courses in Statistical Methods for Biologists - Forecasting Methods, conducted by Institute of Biology, Sri Lanka (Sep 2024).
+3.  Contributed to the invited session on "Machine Learning Strategies for Research Enhancement" at the inauguration of the Postgraduate Technical Sessions 2024, Annual Research Symposium, University of Colombo (Nov 2024).
 
-4.  Workshop for fostering a culture of scientific research in the institutions where officers of Sri Lanka Scientific Service are serving - Practical training on Statistics for Research - Organized by Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government (Nov 2023 and Dec 2024).
+4.  Virtual Series of Short Courses in Statistical Methods for Biologists - Forecasting Methods, conducted by Institute of Biology, Sri Lanka (Sep 2024).
 
-5.  Pre-Congress workshop on Basic statistical methods in health research, organized by the College of Medical Administrators of Sri Lanka (Aug 2023).
+5.  Virtual Series of Short Courses in Statistical Methods for Biologists - Forecasting Methods, conducted by Institute of Biology, Sri Lanka (Sep 2024).
 
-6.  Essentials of Data Science - online workshop series organized by the Center for Data Science (2023 Jan - 2023 June)
+6.  Workshop for fostering a culture of scientific research in the institutions where officers of Sri Lanka Scientific Service are serving - Practical training on Statistics for Research - Organized by Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government (Nov 2023 and Dec 2024).
 
-7.  A workshop on Using LMS for effective assessment (formative and summative), Academic Staff Training on E-learning Aspects 2022 – Organized by the Staff Training subcommittee of the Faculty of Science, University of Colombo (June 2022).
+7.  Pre-Congress workshop on Basic statistical methods in health research, organized by the College of Medical Administrators of Sri Lanka (Aug 2023).
 
-8.  Virtual Series of Short Courses in Statistical Methods for Biologists - Forecasting Methods, conducted by Institute of Biology, Sri Lanka (June 2022).
+8.  Essentials of Data Science - online workshop series organized by the Center for Data Science (2023 Jan - 2023 June)
 
-9.  Workshop on R for Data Science - A Crash Course - A pre-conference workshop of the International Conference on Multidisciplinary Approaches in Science (ICMAS2021) organized by the Center for Data Science (November 2021).
+9.  A workshop on Using LMS for effective assessment (formative and summative), Academic Staff Training on E-learning Aspects 2022 – Organized by the Staff Training subcommittee of the Faculty of Science, University of Colombo (June 2022).
 
-10. Workshop on How to use R Programming for Research - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (July 2021).
+10. Virtual Series of Short Courses in Statistical Methods for Biologists - Forecasting Methods, conducted by Institute of Biology, Sri Lanka (June 2022).
 
-11. Workshop on Basics of R Programming for Research - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (July 2021).
+11. Workshop on R for Data Science - A Crash Course - A pre-conference workshop of the International Conference on Multidisciplinary Approaches in Science (ICMAS2021) organized by the Center for Data Science (November 2021).
 
-12. Workshop on Importance of Statistics for Research - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (July 2021).
+12. Workshop on How to use R Programming for Research - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (July 2021).
 
-13. A session on Importance of Statistics in Research & How to Get Help in the workshop titled Effective Proposal Writing and Thereafter - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (May 2021).
+13. Workshop on Basics of R Programming for Research - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (July 2021).
 
-14. Training Program on Multivariate Data Analysis Using SPSS and Introduction to R Statistical Software (Jan 2019).
+14. Workshop on Importance of Statistics for Research - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (July 2021).
 
-15. Introduction to R and Basic Data Analysis - Staff Development Center, University of Colombo (July 2018).
+15. A session on Importance of Statistics in Research & How to Get Help in the workshop titled Effective Proposal Writing and Thereafter - Organized by the Center for Data Science in collaboration with Research Committee, Faculty of Science, University of Colombo (May 2021).
 
-16. Statistical inference using R - Practical session, Center for Banking Studies, Central Bank of Sri Lanka (July 2018).
+16. Training Program on Multivariate Data Analysis Using SPSS and Introduction to R Statistical Software (Jan 2019).
 
-17. Training Workshop on R - Department of Statistics & Computer Science and Research Service Centre, Faculty of Science, University of Kelaniya (December 2017).
+17. Introduction to R and Basic Data Analysis - Staff Development Center, University of Colombo (July 2018).
 
-18. One - Day Workshop on Biological Modeling, Research & Academic Collaboration Program, University of Kelaniya (November 2016).
+18. Statistical inference using R - Practical session, Center for Banking Studies, Central Bank of Sri Lanka (July 2018).
+
+19. Training Workshop on R - Department of Statistics & Computer Science and Research Service Centre, Faculty of Science, University of Kelaniya (December 2017).
+
+20. One - Day Workshop on Biological Modeling, Research & Academic Collaboration Program, University of Kelaniya (November 2016).
