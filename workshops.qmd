@@ -4,9 +4,9 @@ title: "Workshops"
 
 ## Workshops conducted by me
 
-1.  Workshop on "Learn R: A Practical Introduction to Data Analytics", organized by the Human Resource Development Centre in collaboration with the Center for Data Science, University of Colombo.
+1.  Workshop on "Learn R: A Practical Introduction to Data Analytics", organized by the Human Resource Development Centre in collaboration with the Center for Data Science, University of Colombo (May 2025).
 
-2.  Introductory Third Webinar titled "A Guide to Time Series Analysis and Forecasting for Data Storm 6.0" organized by the Rotaract Club of University of Colombo and University of Moratuwa, Sri Lanka.
+2.  Introductory Third Webinar titled "A Guide to Time Series Analysis and Forecasting for Data Storm 6.0" organized by the Rotaract Club of University of Colombo and University of Moratuwa, Sri Lanka (May 2025).
 
 3.  Contributed to the invited session on "Machine Learning Strategies for Research Enhancement" at the inauguration of the Postgraduate Technical Sessions 2024, Annual Research Symposium, University of Colombo (Nov 2024).
 
