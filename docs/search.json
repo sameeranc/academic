@@ -123,6 +123,6 @@
     "href": "software.html#r-shiny-apps",
     "title": "Software",
     "section": "R Shiny Apps",
-    "text": "R Shiny Apps\n\nShiny app for converting an image to an R plot. It can also be used to draw and creat a 2D dataset with a trends, outliers etc. Check it out here. https://sameera-viswakula.shinyapps.io/Convert_or_draw_your_plot/"
+    "text": "R Shiny Apps\n\nAn interactive R Shiny application for creating customizable maps of Sri Lanka. Users can select specific provinces, districts, or Grama Niladhari divisions and export high-quality maps in PNG, PDF, or dynamic HTML formats. https://sameera-viswakula.shinyapps.io/SL_Map_App/\nShiny app for converting an image to an R plot. It can also be used to draw and creat a 2D dataset with a trends, outliers etc. Check it out here. https://sameera-viswakula.shinyapps.io/Convert_or_draw_your_plot/"
   }
 ]

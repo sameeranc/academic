@@ -8,7 +8,8 @@ title: "Software"
 
 ## R Shiny Apps
 
-1.  Shiny app for converting an image to an R plot. It can also be used to draw and creat a 2D dataset with a trends, outliers etc. Check it out here. <https://sameera-viswakula.shinyapps.io/Convert_or_draw_your_plot/>
+1. An interactive R Shiny application for creating customizable maps of Sri Lanka. Users can select specific provinces, districts, or Grama Niladhari divisions and export high-quality maps in PNG, PDF, or dynamic HTML formats. <https://sameera-viswakula.shinyapps.io/SL_Map_App/>
+2. Shiny app for converting an image to an R plot. It can also be used to draw and creat a 2D dataset with a trends, outliers etc. Check it out here. <https://sameera-viswakula.shinyapps.io/Convert_or_draw_your_plot/>
 
 ## Software Released
 
