@@ -8,8 +8,9 @@ title: "Software"
 
 ## R Shiny Apps
 
-1. An interactive R Shiny application for creating customizable maps of Sri Lanka. Users can select specific provinces, districts, or DS divisions and export high-quality maps in PNG, PDF, or dynamic HTML formats. <https://sameera-viswakula.shinyapps.io/SL_Map_App/>
-2. Shiny app for converting an image to an R plot. It can also be used to draw and creat a 2D dataset with a trends, outliers etc. Check it out here. <https://sameera-viswakula.shinyapps.io/Convert_or_draw_your_plot/>
+1. An R Shiny web application that integrates the Semantic Scholar API to analyze and download citation details of Google Scholar publications, providing researchers with an efficient and user-friendly tool for citation management. <https://sameera-viswakula.shinyapps.io/Google_Citation_Downloader_App/>
+2. An interactive R Shiny application for creating customizable maps of Sri Lanka. Users can select specific provinces, districts, or DS divisions and export high-quality maps in PNG, PDF, or dynamic HTML formats. <https://sameera-viswakula.shinyapps.io/SL_Map_App/>
+3. Shiny app for converting an image to an R plot. It can also be used to draw and creat a 2D dataset with a trends, outliers etc. Check it out here. <https://sameera-viswakula.shinyapps.io/Convert_or_draw_your_plot/>
 
 ## Software Released
 
