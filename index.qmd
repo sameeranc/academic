@@ -3,7 +3,7 @@ title: "Sameera Viswakula"
 about:
   id: me
   template: trestles
-  image: img/profileC.png
+  image: img/SDV_Dec_BG.png
   image-shape: round
   image-width: 20em
   links: 
@@ -42,7 +42,7 @@ I have more than 15 years of experience in research, consultancy and teaching. I
 
 ## Honors and Awards
 
-1.  President’s Award for Scientific Research - 2018 (Awarded in April, 2021)
+1.  President’s Award for Scientific Research - 2018 (Awarded in April, 2021).
 2.  National Research Council Merit Award for Scientific Research - 2020 (Awarded in May, 2025).
 3.  University of Colombo Senate Award for Research Excellence - Certificate of Commendation - For years 2020, 2021, and 2025.
 4.  Faculty Award for Research Excellence, Faculty of Science, University of Colombo - For years 2020, 2021, 2023, and 2024.
