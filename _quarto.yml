@@ -1,7 +1,9 @@
 project:
   type: website
   output-dir: docs
-  
+  resources:
+    - "google*.html"
+
 website:
   title: "Sameera Viswakula"
   site-url: "https://sameeranc.github.io/academic/"
