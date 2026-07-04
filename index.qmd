@@ -1,5 +1,6 @@
 ---
 title: "Sameera Viswakula"
+description: "Senior Lecturer, Department of Statistics, University of Colombo — research and teaching in computational statistics, genomic biostatistics, and machine learning."
 about:
   id: me
   template: trestles
@@ -44,6 +45,7 @@ I have more than 15 years of experience in research, consultancy and teaching. I
 
 -   Computational Statistics Using R
 -   Data Science
+-   Big Data Analytics
 -   Statistical Methods in Bioinformatics
 -   Applied Non-parametric Statistical Methods
 

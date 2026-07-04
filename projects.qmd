@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+description: "Research projects by Sameera Viswakula in machine learning, biological data modeling, count data modeling, genomics data modeling, and R programming."
 ---
 
 ## Machine Learning

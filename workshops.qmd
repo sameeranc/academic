@@ -1,5 +1,6 @@
 ---
 title: "Workshops"
+description: "Workshops on R programming, data science, and statistics conducted by Sameera Viswakula in Sri Lanka."
 ---
 
 ## Workshops conducted by me

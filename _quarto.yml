@@ -4,6 +4,11 @@ project:
   
 website:
   title: "Sameera Viswakula"
+  site-url: "https://sameeranc.github.io/academic/"
+  description: "Sameera Viswakula, Senior Lecturer in Statistics at the University of Colombo, Sri Lanka — research, teaching, and software in computational statistics, genomic biostatistics, and machine learning."
+  favicon: img/SDV_Dec_BG.png
+  twitter-card: true
+  open-graph: true
   navbar:
     pinned: true
     left:
