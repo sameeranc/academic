@@ -18,7 +18,7 @@ title: "Projects"
 
 ## Count Data Modeling
 
--   An EM algorithmic approach for modeling inflated count data, released as R code under US Copyright (see [Software](software.qmd)).
+-   An EM algorithmic approach for modeling inflated count data, released as R code under US Copyright and now available as the **kinfl** R package for Kth-Inflated Poisson Regression (Fernando, De Mel & Viswakula, 2026) — see [Software](software.qmd).
 -   Diagnostic methods for matched case-control studies via a SAS macro for Proc Logistic (Viswakula & Sooriyaarachchi, 2011).
 
 ## Genomics Data Modeling

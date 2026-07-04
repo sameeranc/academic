@@ -2,6 +2,16 @@
 title: "Software"
 ---
 
+## R Packages
+
+1.  **kinfl**: Kth-Inflated Poisson Regression. Fernando, G., De Mel, W. & Viswakula, S. (2026). R package version 0.1.0. <https://github.com/sameeranc/kinfl>
+
+    ```r
+    # install from GitHub
+    install.packages("remotes")
+    remotes::install_github("sameeranc/kinfl")
+    ```
+
 ## United States Copyright
 
 • R code for modeling inflated count data: an EM algorithmic approach. Copyright Number: TXu002192850 (2020) Viswakula, Sameera Dhananjaya and Fernando, Srinal.

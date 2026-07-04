@@ -18,28 +18,28 @@
     "href": "projects.html#biological-data-modeling",
     "title": "Projects",
     "section": "Biological Data Modeling",
-    "text": "Biological Data Modeling"
+    "text": "Biological Data Modeling\n\nSpatio-temporal and GIS-based modeling of dengue risk, including vulnerability mapping (Withanage et al., 2021), incidence forecasting, viral strain tracking, and vector control trials in Gampaha District, Sri Lanka.\nSpatial and seasonal analysis of human leptospirosis in Gampaha District (Denipitiya et al., 2016).\nRadiation dose evaluation and operator variability in fluoroscopy-guided procedures (Gunawardena et al., 2025).\nDescriptive epidemiology of COVID-19 in children under 14 in Sri Lanka (Cabraal et al., 2021).\nPredictive modeling for prehospital endotracheal intubation success (Diggs, Viswakula, Sheth-Chanda & Leo, 2015)."
   },
   {
     "objectID": "projects.html#count-data-modeling",
     "href": "projects.html#count-data-modeling",
     "title": "Projects",
     "section": "Count Data Modeling",
-    "text": "Count Data Modeling"
+    "text": "Count Data Modeling\n\nAn EM algorithmic approach for modeling inflated count data, released as R code under US Copyright and now available as the kinfl R package for Kth-Inflated Poisson Regression (Fernando, De Mel & Viswakula, 2026) — see Software.\nDiagnostic methods for matched case-control studies via a SAS macro for Proc Logistic (Viswakula & Sooriyaarachchi, 2011)."
   },
   {
     "objectID": "projects.html#genomics-data-modeling",
     "href": "projects.html#genomics-data-modeling",
     "title": "Projects",
     "section": "Genomics Data Modeling",
-    "text": "Genomics Data Modeling"
+    "text": "Genomics Data Modeling\n\nBenchmarking transcription factor binding site prediction tools across human and Arabidopsis genomes (Wanniarachchi, Viswakula & Wickramasuriya, 2024).\nTP53 nucleotide variants and their correlation with p53 pathway protein expression in Sri Lankan breast and colorectal cancer patients (Manoharan et al., 2020).\nValidation of a FISH assay for detecting chromosomal aneuploidies (13, 18, 21, X, Y) in prenatal diagnosis (Pahala Ralalage et al., 2023).\nRNA secondary structure prediction for long sequences using inversion excursions (Yehdego et al., 2012), building on the RNASSA and Segmenta tools (see Software).\nA statistical framework for peak-calling in ChIP-seq data (in progress)."
   },
   {
     "objectID": "projects.html#r-programming",
     "href": "projects.html#r-programming",
     "title": "Projects",
     "section": "R Programming",
-    "text": "R Programming"
+    "text": "R Programming\n\nInteractive R Shiny applications for citation management, geographic mapping of Sri Lanka, and image-to-plot conversion — see the full list under Software.\nHands-on R training delivered through workshops for researchers, postgraduates, and public-sector scientists — see Workshops."
   },
   {
     "objectID": "index.html",
@@ -74,7 +74,7 @@
     "href": "index.html#experience",
     "title": "Sameera Viswakula",
     "section": "Experience",
-    "text": "Experience\nI have more than 15 years of experience in research, consultancy and teaching. I like to model data and communicate to public in efficent ways."
+    "text": "Experience\nI have more than 15 years of experience in research, consultancy and teaching. I like to model data and communicate to public in efficient ways."
   },
   {
     "objectID": "index.html#honors-and-awards",
@@ -95,21 +95,21 @@
     "href": "index.html#research-publications",
     "title": "Sameera Viswakula",
     "section": "Research Publications",
-    "text": "Research Publications\nFor updated research information, visit Google Scholar.\n\n\n\nCreated using perplexicity.ai and map-this"
+    "text": "Research Publications\n\nGunawardena H, Nissanka M, Satharasinghe DM, Viswakula S, Varatharajan M, Abeyweera A, Ganewatte E, Pathmathas T, Jayakody M, Padovani R, Jeyasugiththan J. Evaluation of radiation doses and the impact of operator variability on radiation exposure in fluoroscopy-guided procedures: insights from Sri Lanka. Journal of Radiological Protection, 45(3), 2025.\nSudasinghe, P., Viswakula, S., & Lakraj, P. Can social media opinions add value to historical data? A study for T20I cricket match outcome prediction using machine learning. Journal of Sports Analytics, 11, 2025.\nWanniarachchi, D.V., Viswakula, S. & Wickramasuriya, A.M. The evaluation of transcription factor binding site prediction tools in human and Arabidopsis genomes. BMC Bioinformatics, 25, 371, 2024.\nGunawardana, J., Viswakula, S., Rannan-Eliya, R. P., & Wijemunige, N. Machine learning approaches for asthma disease prediction among adults in Sri Lanka. Health Informatics Journal, 30(3), 2024.\nPahala Ralalage BMSK, Kaluarachchi N, Randunu M, Jainulabdeen M, Nanthakumar R, Viswakula S, Galhena BP. Validation of Fluorescence in Situ Hybridization (FISH) Assay Using an Analyte-Specific Reagent in Detecting Aneuploidies of Chromosomes 13, 18, 21, X, and Y in Prenatal Diagnosis. OBM Genetics, 7(1), 177, 2023.\nCabraal MNS, Samarawickrama RIU, Kodithuwakku KARR, Viswakula SD, Lantra SR. Nationwide descriptive study of COVID-19 in children below the age of 14 years in Sri Lanka. Sri Lanka Journal of Child Health, 50(1), 2021.\nWithanage, G.P., Gunawardana, M., Viswakula, S.D., Samaraweera, K., Gunawardena, N.S. & Hapugoda, M.D. Multivariate spatio-temporal approach to identify vulnerable localities in dengue risk areas using Geographic Information System (GIS). Scientific Reports, 11, 4080, 2021.\nWithanage, G.P., Viswakula, S.D., Gunawardene, Y.S. & Hapugoda, M.D. Use of Novaluron-Based Autocidal Gravid Ovitraps to Control Aedes Dengue Vector Mosquitoes in the District of Gampaha, Sri Lanka. BioMed Research International, 2020.\nManoharan, V., Karunanayake, E.H., Tennekoon, K.H., De Silva, S., Imthikab, A.I.A., De Silva, K., Angunawela, P., Viswakula, S. & Lunec, J. Pattern of nucleotide variants of TP53 and their correlation with the expression of p53 and its downstream proteins in a Sri Lankan cohort of breast and colorectal cancer patients. BMC Cancer, 20, 72, 2020.\nWithanage, G.P., Hapuarachchi, H.C., Viswakula, S., Gunawardena, Y.I.N.S. & Hapugoda, M. Entomological surveillance with viral tracking demonstrates a migrated viral strain caused dengue epidemic in July, 2017 in Sri Lanka. PLoS ONE, 15(5), 2020.\nWijesinghe, I.H. & Viswakula, S.D. Machine Learning for Pre-Auction Sample Selection. National Information Technology Conference (NITC), Colombo, 2018.\nWithanage, G.P., Viswakula, S.D., Gunawardena, Y.I.N.S. & Hapugoda, M.D. A forecasting model for dengue incidence in the District of Gampaha, Sri Lanka. Parasites & Vectors, 2018.\nBruhn, A., Newcomb, T. & Viswakula, S. Feedback Delay as an Approach to Teaching Oral Radiographic Technique. Radiology Science and Education, AEIRS, 2017.\nDenipitiya, T.H., Chandrasekharan, V., Abeyewickreme, W., Viswakula, S. & Hapugoda, M. Spatial and seasonal analysis of human leptospirosis in the District of Gampaha, Sri Lanka. Sri Lankan Journal of Infectious Diseases, 2016.\nDiggs, L.A., Viswakula, S.D., Sheth-Chanda, M. & Leo, G.D. A Pilot Model for Predicting the Success of Prehospital Endotracheal Intubation. The American Journal of Emergency Medicine, 33(2), 202-208, 2015.\nYehdego, D.T., Kodimala, V.K., Viswakula, S., Zhang, B., Vegesna, R., Johnson, K.L., Taufer, M. & Leung, M.-Y. Secondary structure predictions for long RNA sequences based on inversion excursions: preliminary results. Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine, 545-547, 2012.\nViswakula, S. & Sooriyaarachchi, M.R. Diagnostics for matched case control studies: SAS macro for Proc Logistic. Journal of the National Science Foundation of Sri Lanka, 39, 13-23, 2011.\n\nFor the complete and continuously updated list, visit Google Scholar.\n\n\n\nCreated using perplexicity.ai and map-this"
   },
   {
     "objectID": "software.html",
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "• R code for modeling inflated count data: an EM algorithmic approach. Copyright Number: TXu002192850 (2020) Viswakula, Sameera Dhananjaya and Fernando, Srinal."
+    "text": "kinfl: Kth-Inflated Poisson Regression. Fernando, G., De Mel, W. & Viswakula, S. (2026). R package version 0.1.0. https://github.com/sameeranc/kinfl\n# install from GitHub\ninstall.packages(\"remotes\")\nremotes::install_github(\"sameeranc/kinfl\")"
   },
   {
     "objectID": "software.html#united-states-copyright",
     "href": "software.html#united-states-copyright",
     "title": "Software",
-    "section": "",
-    "text": "• R code for modeling inflated count data: an EM algorithmic approach. Copyright Number: TXu002192850 (2020) Viswakula, Sameera Dhananjaya and Fernando, Srinal."
+    "section": "United States Copyright",
+    "text": "United States Copyright\n• R code for modeling inflated count data: an EM algorithmic approach. Copyright Number: TXu002192850 (2020) Viswakula, Sameera Dhananjaya and Fernando, Srinal."
   },
   {
     "objectID": "software.html#r-shiny-apps",
@@ -124,5 +124,33 @@
     "title": "Software",
     "section": "Software Released",
     "text": "Software Released\n\nRNASSA 2.0: RNA Secondary Structure Analysis (Version 2.0.121208). Leung, M.-Y., Mohl, J., Licon, A., Viswakula, S., Kelley, P., Araiza, R., Kodimala, V., Vegesna, R., Saldivar, L., Yehadego, D., Cardenas, G., Vest, E.,Fuentes, O., Taufer, M., Johnson, K. L., (2012).\nSegmenta 2.0: A Bioinformatics Tool for RNA Segmentation (Version 2.0.121208). Leung, M.-Y., Viswakula, S., Kodimala, V., Yehadego, D., Vegesna, R., Taufer, M., Johnson, K. L., (2012)."
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Sameera Viswakula",
+    "section": "Teaching",
+    "text": "Teaching\n\nComputational Statistics Using R\nData Science\nStatistical Methods in Bioinformatics\nApplied Non-parametric Statistical Methods"
+  },
+  {
+    "objectID": "software.html#r-packages",
+    "href": "software.html#r-packages",
+    "title": "Software",
+    "section": "",
+    "text": "kinfl: Kth-Inflated Poisson Regression. Fernando, G., De Mel, W. & Viswakula, S. (2026). R package version 0.1.0. https://github.com/sameeranc/kinfl\n# install from GitHub\ninstall.packages(\"remotes\")\nremotes::install_github(\"sameeranc/kinfl\")"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Combining social media sentiment with historical data to predict T20I cricket match outcomes (Sudasinghe, Viswakula & Lakraj, 2025).\nPredicting asthma disease risk among adults in Sri Lanka using machine learning (Gunawardana, Viswakula, Rannan-Eliya & Wijemunige, 2024).\nMachine learning models for pre-auction sample selection (Wijesinghe & Viswakula, NITC 2018)."
+  },
+  {
+    "objectID": "projects.html#machine-learning",
+    "href": "projects.html#machine-learning",
+    "title": "Projects",
+    "section": "",
+    "text": "Combining social media sentiment with historical data to predict T20I cricket match outcomes (Sudasinghe, Viswakula & Lakraj, 2025).\nPredicting asthma disease risk among adults in Sri Lanka using machine learning (Gunawardana, Viswakula, Rannan-Eliya & Wijemunige, 2024).\nMachine learning models for pre-auction sample selection (Wijesinghe & Viswakula, NITC 2018)."
   }
 ]

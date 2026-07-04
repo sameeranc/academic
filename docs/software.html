@@ -20,11 +20,44 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -125,7 +158,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#united-states-copyright" id="toc-united-states-copyright" class="nav-link active" data-scroll-target="#united-states-copyright">United States Copyright</a></li>
+  <li><a href="#r-packages" id="toc-r-packages" class="nav-link active" data-scroll-target="#r-packages">R Packages</a></li>
+  <li><a href="#united-states-copyright" id="toc-united-states-copyright" class="nav-link" data-scroll-target="#united-states-copyright">United States Copyright</a></li>
   <li><a href="#r-shiny-apps" id="toc-r-shiny-apps" class="nav-link" data-scroll-target="#r-shiny-apps">R Shiny Apps</a></li>
   <li><a href="#software-released" id="toc-software-released" class="nav-link" data-scroll-target="#software-released">Software Released</a></li>
   </ul>
@@ -153,6 +187,15 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="r-packages" class="level2">
+<h2 class="anchored" data-anchor-id="r-packages">R Packages</h2>
+<ol type="1">
+<li><p><strong>kinfl</strong>: Kth-Inflated Poisson Regression. Fernando, G., De Mel, W. &amp; Viswakula, S. (2026). R package version 0.1.0. <a href="https://github.com/sameeranc/kinfl" class="uri">https://github.com/sameeranc/kinfl</a></p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># install from GitHub</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"remotes"</span>)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"sameeranc/kinfl"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+</ol>
+</section>
 <section id="united-states-copyright" class="level2">
 <h2 class="anchored" data-anchor-id="united-states-copyright">United States Copyright</h2>
 <p>• R code for modeling inflated count data: an EM algorithmic approach. Copyright Number: TXu002192850 (2020) Viswakula, Sameera Dhananjaya and Fernando, Srinal.</p>
@@ -744,7 +787,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© Copyright 2025, Sameera Viswakula</p>
+<p>© Copyright 2026, Sameera Viswakula</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

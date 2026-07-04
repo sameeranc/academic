@@ -5,6 +5,7 @@ project:
 website:
   title: "Sameera Viswakula"
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
