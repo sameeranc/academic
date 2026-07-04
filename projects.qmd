@@ -4,10 +4,32 @@ title: "Projects"
 
 ## Machine Learning
 
+-   Combining social media sentiment with historical data to predict T20I cricket match outcomes ([Sudasinghe, Viswakula & Lakraj, 2025](https://doi.org/10.1177/22150218251342185)).
+-   Predicting asthma disease risk among adults in Sri Lanka using machine learning ([Gunawardana, Viswakula, Rannan-Eliya & Wijemunige, 2024](https://doi.org/10.1177/14604582241283968)).
+-   Machine learning models for pre-auction sample selection (Wijesinghe & Viswakula, NITC 2018).
+
 ## Biological Data Modeling
+
+-   Spatio-temporal and GIS-based modeling of dengue risk, including vulnerability mapping ([Withanage et al., 2021](https://doi.org/10.1038/s41598-021-83204-1)), incidence forecasting, viral strain tracking, and vector control trials in Gampaha District, Sri Lanka.
+-   Spatial and seasonal analysis of human leptospirosis in Gampaha District (Denipitiya et al., 2016).
+-   Radiation dose evaluation and operator variability in fluoroscopy-guided procedures ([Gunawardena et al., 2025](https://doi.org/10.1088/1361-6498/adfdf1)).
+-   Descriptive epidemiology of COVID-19 in children under 14 in Sri Lanka (Cabraal et al., 2021).
+-   Predictive modeling for prehospital endotracheal intubation success (Diggs, Viswakula, Sheth-Chanda & Leo, 2015).
 
 ## Count Data Modeling
 
+-   An EM algorithmic approach for modeling inflated count data, released as R code under US Copyright (see [Software](software.qmd)).
+-   Diagnostic methods for matched case-control studies via a SAS macro for Proc Logistic (Viswakula & Sooriyaarachchi, 2011).
+
 ## Genomics Data Modeling
 
+-   Benchmarking transcription factor binding site prediction tools across human and *Arabidopsis* genomes ([Wanniarachchi, Viswakula & Wickramasuriya, 2024](https://doi.org/10.1186/s12859-024-05995-0)).
+-   TP53 nucleotide variants and their correlation with p53 pathway protein expression in Sri Lankan breast and colorectal cancer patients (Manoharan et al., 2020).
+-   Validation of a FISH assay for detecting chromosomal aneuploidies (13, 18, 21, X, Y) in prenatal diagnosis ([Pahala Ralalage et al., 2023](https://doi.org/10.21926/obm.genet.2301177)).
+-   RNA secondary structure prediction for long sequences using inversion excursions (Yehdego et al., 2012), building on the RNASSA and Segmenta tools (see [Software](software.qmd)).
+-   A statistical framework for peak-calling in ChIP-seq data (in progress).
+
 ## R Programming
+
+-   Interactive R Shiny applications for citation management, geographic mapping of Sri Lanka, and image-to-plot conversion — see the full list under [Software](software.qmd).
+-   Hands-on R training delivered through workshops for researchers, postgraduates, and public-sector scientists — see [Workshops](workshops.qmd).
