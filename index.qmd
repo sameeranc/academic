@@ -18,7 +18,7 @@ about:
 ::: {#me}
 ## About me
 
-I am a senior lecturer at the Department of Statistics, University of Colombo, Sri Lanka and I like coding and carrying out research.
+I am a Senior Lecturer at the Department of Statistics, University of Colombo, Sri Lanka, where I work on computational statistics, genomic biostatistics, and machine learning. I enjoy building statistical models and R tools that turn messy data into useful, reproducible answers — and sharing that work through research, teaching, and consultancy.
 
 ## Interests
 
