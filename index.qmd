@@ -67,40 +67,48 @@ I have more than 15 years of experience in research, consultancy and teaching. I
 
 ## Research Publications
 
-1.  Gunawardena H, Nissanka M, Satharasinghe DM, Viswakula S, Varatharajan M, Abeyweera A, Ganewatte E, Pathmathas T, Jayakody M, Padovani R, Jeyasugiththan J. [Evaluation of radiation doses and the impact of operator variability on radiation exposure in fluoroscopy-guided procedures: insights from Sri Lanka](https://doi.org/10.1088/1361-6498/adfdf1). *Journal of Radiological Protection*, 45(3), 2025.
+1.  Kudagama, H.N., \textbf{Viswakula, S.D.} Comparative evaluation of traditional, machine learning, deep learning, and hybrid models for short-term wind speed forecasting in Colombo, Sri Lanka. Sci Rep (2026). https://doi.org/10.1038/s41598-026-74835-3
 
-2.  Sudasinghe, P., Viswakula, S., & Lakraj, P. [Can social media opinions add value to historical data? A study for T20I cricket match outcome prediction using machine learning](https://doi.org/10.1177/22150218251342185). *Journal of Sports Analytics*, 11, 2025.
+2.  Abeygunawardane, G. A., Silva, G. I. P. D., Priyankara, P., Dhanushka, T., Rangana, \textbf{Wishwakula, S.,}, Nekouie, V., & Skof, M. (2026). Grain size enhancement and grain boundary thickness reduction in low-carbon steel at sub-recrystalline temperatures via ultra low frequency electrical pulse-assisted tensile deformation. \textit{Material Science and Engineering Technology}. http://doi.org/10.1002/mawe.70113
 
-3.  Wanniarachchi, D.V., Viswakula, S. & Wickramasuriya, A.M. [The evaluation of transcription factor binding site prediction tools in human and Arabidopsis genomes](https://doi.org/10.1186/s12859-024-05995-0). *BMC Bioinformatics*, 25, 371, 2024.
+3.  Cabraal, T. R., Kumarasinghe, I., Perera, R., Balawardana, J., \textbf{Viswakula, S.}, Perera, N., & Galhena, G. H. (2026). Pattern of somatic mutations in the PIK3CA oncogene and their role as a potential prognostic biomarker in breast cancer patients in Sri Lanka: A pilot study. \textit{Asian Pacific Journal of Cancer Prevention, 27}(3), 897--910. https://doi.org/10.31557/APJCP.2026.27.3.897
 
-4.  Gunawardana, J., Viswakula, S., Rannan-Eliya, R. P., & Wijemunige, N. [Machine learning approaches for asthma disease prediction among adults in Sri Lanka](https://doi.org/10.1177/14604582241283968). *Health Informatics Journal*, 30(3), 2024.
+4.  Yadav, R. N., Jayakody, M., \textbf{Viswakula, S.}, Satharasinghe, D., Shah, B. R., Sharma, N., Devkota, K., Ansari, N. J., Azhari, H. A., & Jeyasugiththan, J. (2025). Establishment of national diagnostic reference levels for digital mammography in Nepal. \textit{Journal of Radiological Protection}, 45(4), 041520. https://doi.org/10.1088/1361-6498/ae23d9
 
-5.  Pahala Ralalage BMSK, Kaluarachchi N, Randunu M, Jainulabdeen M, Nanthakumar R, Viswakula S, Galhena BP. [Validation of Fluorescence in Situ Hybridization (FISH) Assay Using an Analyte-Specific Reagent in Detecting Aneuploidies of Chromosomes 13, 18, 21, X, and Y in Prenatal Diagnosis](https://doi.org/10.21926/obm.genet.2301177). *OBM Genetics*, 7(1), 177, 2023.
+5.  Bawanga, L.M.D., Wijewardene, D.R.R., Sarathchandra, P., \textbf{S Viswakula}, & Wickramasuriya, A.M., (2025). Black pepper knowledge base (BlackPepKB): a centralized web resource for functional genomics of black pepper (Piper nigrum L.). \textit{BMC Genomics} 26, 929. https://doi.org/10.1186/s12864-025-12134-3 1. Gunawardena H, Nissanka M, Satharasinghe DM, Viswakula S, Varatharajan M, Abeyweera A, Ganewatte E, Pathmathas T, Jayakody M, Padovani R, Jeyasugiththan J. [Evaluation of radiation doses and the impact of operator variability on radiation exposure in fluoroscopy-guided procedures: insights from Sri Lanka](https://doi.org/10.1088/1361-6498/adfdf1). *Journal of Radiological Protection*, 45(3), 2025.
 
-6.  Cabraal MNS, Samarawickrama RIU, Kodithuwakku KARR, Viswakula SD, Lantra SR. Nationwide descriptive study of COVID-19 in children below the age of 14 years in Sri Lanka. *Sri Lanka Journal of Child Health*, 50(1), 2021.
+6.  Sudasinghe, P., Viswakula, S., & Lakraj, P. [Can social media opinions add value to historical data? A study for T20I cricket match outcome prediction using machine learning](https://doi.org/10.1177/22150218251342185). *Journal of Sports Analytics*, 11, 2025.
 
-7.  Withanage, G.P., Gunawardana, M., Viswakula, S.D., Samaraweera, K., Gunawardena, N.S. & Hapugoda, M.D. [Multivariate spatio-temporal approach to identify vulnerable localities in dengue risk areas using Geographic Information System (GIS)](https://doi.org/10.1038/s41598-021-83204-1). *Scientific Reports*, 11, 4080, 2021.
+7.  Wanniarachchi, D.V., Viswakula, S. & Wickramasuriya, A.M. [The evaluation of transcription factor binding site prediction tools in human and Arabidopsis genomes](https://doi.org/10.1186/s12859-024-05995-0). *BMC Bioinformatics*, 25, 371, 2024.
 
-8.  Withanage, G.P., Viswakula, S.D., Gunawardene, Y.S. & Hapugoda, M.D. Use of Novaluron-Based Autocidal Gravid Ovitraps to Control Aedes Dengue Vector Mosquitoes in the District of Gampaha, Sri Lanka. *BioMed Research International*, 2020.
+8.  Gunawardana, J., Viswakula, S., Rannan-Eliya, R. P., & Wijemunige, N. [Machine learning approaches for asthma disease prediction among adults in Sri Lanka](https://doi.org/10.1177/14604582241283968). *Health Informatics Journal*, 30(3), 2024.
 
-9.  Manoharan, V., Karunanayake, E.H., Tennekoon, K.H., De Silva, S., Imthikab, A.I.A., De Silva, K., Angunawela, P., Viswakula, S. & Lunec, J. Pattern of nucleotide variants of TP53 and their correlation with the expression of p53 and its downstream proteins in a Sri Lankan cohort of breast and colorectal cancer patients. *BMC Cancer*, 20, 72, 2020.
+9.  Pahala Ralalage BMSK, Kaluarachchi N, Randunu M, Jainulabdeen M, Nanthakumar R, Viswakula S, Galhena BP. [Validation of Fluorescence in Situ Hybridization (FISH) Assay Using an Analyte-Specific Reagent in Detecting Aneuploidies of Chromosomes 13, 18, 21, X, and Y in Prenatal Diagnosis](https://doi.org/10.21926/obm.genet.2301177). *OBM Genetics*, 7(1), 177, 2023.
 
-10. Withanage, G.P., Hapuarachchi, H.C., Viswakula, S., Gunawardena, Y.I.N.S. & Hapugoda, M. Entomological surveillance with viral tracking demonstrates a migrated viral strain caused dengue epidemic in July, 2017 in Sri Lanka. *PLoS ONE*, 15(5), 2020.
+10. Cabraal MNS, Samarawickrama RIU, Kodithuwakku KARR, Viswakula SD, Lantra SR. Nationwide descriptive study of COVID-19 in children below the age of 14 years in Sri Lanka. *Sri Lanka Journal of Child Health*, 50(1), 2021.
 
-11. Wijesinghe, I.H. & Viswakula, S.D. Machine Learning for Pre-Auction Sample Selection. *National Information Technology Conference (NITC)*, Colombo, 2018.
+11. Withanage, G.P., Gunawardana, M., Viswakula, S.D., Samaraweera, K., Gunawardena, N.S. & Hapugoda, M.D. [Multivariate spatio-temporal approach to identify vulnerable localities in dengue risk areas using Geographic Information System (GIS)](https://doi.org/10.1038/s41598-021-83204-1). *Scientific Reports*, 11, 4080, 2021.
 
-12. Withanage, G.P., Viswakula, S.D., Gunawardena, Y.I.N.S. & Hapugoda, M.D. A forecasting model for dengue incidence in the District of Gampaha, Sri Lanka. *Parasites & Vectors*, 2018.
+12. Withanage, G.P., Viswakula, S.D., Gunawardene, Y.S. & Hapugoda, M.D. Use of Novaluron-Based Autocidal Gravid Ovitraps to Control Aedes Dengue Vector Mosquitoes in the District of Gampaha, Sri Lanka. *BioMed Research International*, 2020.
 
-13. Bruhn, A., Newcomb, T. & Viswakula, S. Feedback Delay as an Approach to Teaching Oral Radiographic Technique. *Radiology Science and Education*, AEIRS, 2017.
+13. Manoharan, V., Karunanayake, E.H., Tennekoon, K.H., De Silva, S., Imthikab, A.I.A., De Silva, K., Angunawela, P., Viswakula, S. & Lunec, J. Pattern of nucleotide variants of TP53 and their correlation with the expression of p53 and its downstream proteins in a Sri Lankan cohort of breast and colorectal cancer patients. *BMC Cancer*, 20, 72, 2020.
 
-14. Denipitiya, T.H., Chandrasekharan, V., Abeyewickreme, W., Viswakula, S. & Hapugoda, M. Spatial and seasonal analysis of human leptospirosis in the District of Gampaha, Sri Lanka. *Sri Lankan Journal of Infectious Diseases*, 2016.
+14. Withanage, G.P., Hapuarachchi, H.C., Viswakula, S., Gunawardena, Y.I.N.S. & Hapugoda, M. Entomological surveillance with viral tracking demonstrates a migrated viral strain caused dengue epidemic in July, 2017 in Sri Lanka. *PLoS ONE*, 15(5), 2020.
 
-15. Diggs, L.A., Viswakula, S.D., Sheth-Chanda, M. & Leo, G.D. A Pilot Model for Predicting the Success of Prehospital Endotracheal Intubation. *The American Journal of Emergency Medicine*, 33(2), 202-208, 2015.
+15. Wijesinghe, I.H. & Viswakula, S.D. Machine Learning for Pre-Auction Sample Selection. *National Information Technology Conference (NITC)*, Colombo, 2018.
 
-16. Yehdego, D.T., Kodimala, V.K., Viswakula, S., Zhang, B., Vegesna, R., Johnson, K.L., Taufer, M. & Leung, M.-Y. Secondary structure predictions for long RNA sequences based on inversion excursions: preliminary results. *Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine*, 545-547, 2012.
+16. Withanage, G.P., Viswakula, S.D., Gunawardena, Y.I.N.S. & Hapugoda, M.D. A forecasting model for dengue incidence in the District of Gampaha, Sri Lanka. *Parasites & Vectors*, 2018.
 
-17. Viswakula, S. & Sooriyaarachchi, M.R. Diagnostics for matched case control studies: SAS macro for Proc Logistic. *Journal of the National Science Foundation of Sri Lanka*, 39, 13-23, 2011.
+17. Bruhn, A., Newcomb, T. & Viswakula, S. Feedback Delay as an Approach to Teaching Oral Radiographic Technique. *Radiology Science and Education*, AEIRS, 2017.
+
+18. Denipitiya, T.H., Chandrasekharan, V., Abeyewickreme, W., Viswakula, S. & Hapugoda, M. Spatial and seasonal analysis of human leptospirosis in the District of Gampaha, Sri Lanka. *Sri Lankan Journal of Infectious Diseases*, 2016.
+
+19. Diggs, L.A., Viswakula, S.D., Sheth-Chanda, M. & Leo, G.D. A Pilot Model for Predicting the Success of Prehospital Endotracheal Intubation. *The American Journal of Emergency Medicine*, 33(2), 202-208, 2015.
+
+20. Yehdego, D.T., Kodimala, V.K., Viswakula, S., Zhang, B., Vegesna, R., Johnson, K.L., Taufer, M. & Leung, M.-Y. Secondary structure predictions for long RNA sequences based on inversion excursions: preliminary results. *Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine*, 545-547, 2012.
+
+21. Viswakula, S. & Sooriyaarachchi, M.R. Diagnostics for matched case control studies: SAS macro for Proc Logistic. *Journal of the National Science Foundation of Sri Lanka*, 39, 13-23, 2011.
 
 For the complete and continuously updated list, visit [Google Scholar](https://scholar.google.com/citations?user=fzAQV6wAAAAJ&hl=en).
 
-![Created using perplexicity.ai and map-this](img/mindMap.png){width="1196"}
+![](img/mindMap2.png)
