@@ -5,6 +5,7 @@ description: "Research projects by Sameera Viswakula in machine learning, biolog
 
 ## Machine Learning
 
+-   Benchmarking traditional statistical, machine learning, deep learning, and hybrid models for short-term wind speed forecasting in Colombo, Sri Lanka ([Kudagama & Viswakula, 2026](https://doi.org/10.1038/s41598-026-74835-3)).
 -   Combining social media sentiment with historical data to predict T20I cricket match outcomes ([Sudasinghe, Viswakula & Lakraj, 2025](https://doi.org/10.1177/22150218251342185)).
 -   Predicting asthma disease risk among adults in Sri Lanka using machine learning ([Gunawardana, Viswakula, Rannan-Eliya & Wijemunige, 2024](https://doi.org/10.1177/14604582241283968)).
 -   Machine learning models for pre-auction sample selection (Wijesinghe & Viswakula, NITC 2018).
